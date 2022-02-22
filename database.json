@@ -1,10 +1,24 @@
-[[
-{
-	"message": "success",
-	"Database": {
-		"BlackList_Place": ["8520194845", "0", "0"],
-		"BlackList_Group": ["13296171", "0", "0"],
-		"BlackList_Player": ["990629109", "1102799588", "0"]
-	}
-}
-]]
+[
+  [
+    {
+      "message": "success",
+      "Database": {
+        "BlackList_Place": [
+          "8520194845",
+          "0",
+          "0"
+        ],
+        "BlackList_Group": [
+          "13296171",
+          "0",
+          "0"
+        ],
+        "BlackList_Player": [
+          "990629109",
+          "1102799588",
+          "0"
+        ]
+      }
+    }
+  ]
+]
