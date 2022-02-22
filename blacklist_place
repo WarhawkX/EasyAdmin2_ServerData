@@ -1,0 +1,4 @@
+local BlackList_Place = {
+	8520194845,
+	0
+}
